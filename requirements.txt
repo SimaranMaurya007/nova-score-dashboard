@@ -1,0 +1,11 @@
+streamlit
+pandas
+numpy
+plotly
+catboost
+lightgbm
+joblib
+# sqlite3 is stdlib on CPython; wheels for some platforms:
+sqlite3-binary ; platform_system != "Windows"
+# optional; remove if not using LSTM
+tensorflow
