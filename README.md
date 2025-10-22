@@ -41,7 +41,7 @@ This project is designed to:
 
 ### 1️ Clone the repository
 ```bash
-git clone https://github.com/<your-username>/nova-score-dashboard.git
+git clone https://github.com/simaranmaurya007/nova-score-dashboard.git
 cd nova-score-dashboard
 ```
 ### 2️ Create and activate a virtual environment
